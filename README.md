@@ -4,6 +4,8 @@
 
 Desafio desenvolvido no curso Explorer da rocketseat
 
+* Construindo um layout com base nos conhecimentos adquiridos nos projetos 1 e 2
+
 ![preview](./.github/preview.png)
 
 
